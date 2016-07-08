@@ -1,3 +1,5 @@
 package: github.com/gtrevg/vproject
 import:
 - package: github.com/Comcast/golang-money
+  repo: https://github.com/gtrevg/golang-money.git
+  version: dev-v0.1
