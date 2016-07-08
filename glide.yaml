@@ -1,3 +1,4 @@
 package: github.com/gtrevg/vproject
 import:
 - package: github.com/Comcast/golang-money
+  version: feature/headerchange
